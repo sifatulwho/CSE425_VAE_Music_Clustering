@@ -1,4 +1,4 @@
-# VAE-Based Music Clustering: Three-Level Task Implementation
+# Unsupervised Learning Project: VAE for Hybrid Language Music Clustering
 
 ## Overview
 
@@ -38,11 +38,7 @@ CSE425_Music_Clustering/
 ├── requirements.txt          # Python dependencies
 └── README.md               
 
-## Dataset Setup
-**Note:** The audio and lyrics datasets are not included in this repository due to size limits.
+## Datasets
 
-To reproduce results:
-1. **GTZAN Dataset:** Download from [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) and place contents in `data/audio/`.
-2. **Genius Lyrics:** Download from [Kaggle](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information) and place `song_lyrics.csv` in `data/lyrics/`.
-3. Run the extraction script:
-   ```bash
+1. **GTZAN Dataset:** Download from [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) 
+2. **Genius Lyrics:** Download from [Kaggle](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information)
