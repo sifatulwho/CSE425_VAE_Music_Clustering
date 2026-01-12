@@ -1,0 +1,16 @@
+venv/
+env/
+__pycache__/
+*.pyc
+data/audio/
+data/lyrics/
+data/genres_original/
+data/images_original/
+data/features_3_sec.csv
+data/features_30_sec.csv
+data/lyrics/song_lyrics.csv
+data/processed/gtzan_features.csv
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
