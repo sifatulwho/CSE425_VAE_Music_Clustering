@@ -1,4 +1,4 @@
-# VAE-Based Music Clustering: Three-Level Task Implementation
+# Unsupervised Learning Project: VAE for Hybrid Language Music Clustering
 
 ## Overview
 
