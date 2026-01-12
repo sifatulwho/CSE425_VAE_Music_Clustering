@@ -40,5 +40,5 @@ CSE425_Music_Clustering/
 
 ## Datasets
 
-1. **GTZAN Dataset:** Download from [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) and place contents in `data/audio/`.
-2. **Genius Lyrics:** Download from [Kaggle](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information) and place `song_lyrics.csv` in `data/lyrics/`.
+1. **GTZAN Dataset:** Download from [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) 
+2. **Genius Lyrics:** Download from [Kaggle](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information)
